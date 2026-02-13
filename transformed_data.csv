@@ -1,0 +1,379 @@
+date,label,section,amount,issummary,accountid,30 Nov 24,30 Sep 24,31 Aug 24,31 Dec 24,31 Jan 25,31 Jul 24,31 Oct 24
+30 Nov 24,Accounting expenses,Less Operating Expenses,56.05,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+30 Sep 24,Accounting expenses,Less Operating Expenses,5569.83,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+31 Aug 24,Accounting expenses,Less Operating Expenses,11028.54,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+31 Dec 24,Accounting expenses,Less Operating Expenses,14713.39,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+31 Jan 25,Accounting expenses,Less Operating Expenses,9566.05,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+31 Jul 24,Accounting expenses,Less Operating Expenses,1309.92,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+31 Oct 24,Accounting expenses,Less Operating Expenses,5921.82,0,0f39a19d-f8a2-4c2e-ab29-5dedc20004c9,56.05,5569.83,11028.54,14713.39,9566.05,1309.92,5921.82
+30 Nov 24,Admin - office running cost,Less Operating Expenses,0.0,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+30 Sep 24,Admin - office running cost,Less Operating Expenses,1559.47,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+31 Aug 24,Admin - office running cost,Less Operating Expenses,0.0,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+31 Dec 24,Admin - office running cost,Less Operating Expenses,0.0,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+31 Jan 25,Admin - office running cost,Less Operating Expenses,0.0,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+31 Jul 24,Admin - office running cost,Less Operating Expenses,0.0,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+31 Oct 24,Admin - office running cost,Less Operating Expenses,770.93,0,a18d7ff4-a4a4-4efc-be47-807a428aec48,0.0,1559.47,0.0,0.0,0.0,0.0,770.93
+30 Nov 24,Audit Expenses,Less Operating Expenses,0.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+30 Sep 24,Audit Expenses,Less Operating Expenses,0.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+31 Aug 24,Audit Expenses,Less Operating Expenses,0.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+31 Dec 24,Audit Expenses,Less Operating Expenses,25000.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+31 Jan 25,Audit Expenses,Less Operating Expenses,0.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+31 Jul 24,Audit Expenses,Less Operating Expenses,0.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+31 Oct 24,Audit Expenses,Less Operating Expenses,0.0,0,fd49baa5-6a70-449c-994a-bc0ab262dca2,0.0,0.0,0.0,25000.0,0.0,0.0,0.0
+30 Nov 24,Bank fees,Less Operating Expenses,7.72,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+30 Sep 24,Bank fees,Less Operating Expenses,82.97,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+31 Aug 24,Bank fees,Less Operating Expenses,-8.9,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+31 Dec 24,Bank fees,Less Operating Expenses,2752.14,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+31 Jan 25,Bank fees,Less Operating Expenses,8.07,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+31 Jul 24,Bank fees,Less Operating Expenses,1.46,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+31 Oct 24,Bank fees,Less Operating Expenses,7.53,0,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd,7.72,82.97,-8.9,2752.14,8.07,1.46,7.53
+30 Nov 24,Battery partner revenue share,Less Cost of Sales,0.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+30 Sep 24,Battery partner revenue share,Less Cost of Sales,0.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+31 Aug 24,Battery partner revenue share,Less Cost of Sales,0.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+31 Dec 24,Battery partner revenue share,Less Cost of Sales,166767.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+31 Jan 25,Battery partner revenue share,Less Cost of Sales,0.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+31 Jul 24,Battery partner revenue share,Less Cost of Sales,0.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+31 Oct 24,Battery partner revenue share,Less Cost of Sales,0.0,0,7344e70e-059c-42d4-9ef2-6509c3961901,0.0,0.0,0.0,166767.0,0.0,0.0,0.0
+30 Nov 24,Battery revenue,Income,0.0,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+30 Sep 24,Battery revenue,Income,0.0,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+31 Aug 24,Battery revenue,Income,0.0,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+31 Dec 24,Battery revenue,Income,3207770.12,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+31 Jan 25,Battery revenue,Income,0.0,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+31 Jul 24,Battery revenue,Income,0.0,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+31 Oct 24,Battery revenue,Income,0.0,0,f4021cf5-f703-4f92-92ea-f65615998b76,0.0,0.0,0.0,3207770.12,0.0,0.0,0.0
+30 Nov 24,Charity Donation,Less Operating Expenses,0.0,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+30 Sep 24,Charity Donation,Less Operating Expenses,10.07,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+31 Aug 24,Charity Donation,Less Operating Expenses,0.0,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+31 Dec 24,Charity Donation,Less Operating Expenses,0.0,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+31 Jan 25,Charity Donation,Less Operating Expenses,0.0,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+31 Jul 24,Charity Donation,Less Operating Expenses,10.0,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+31 Oct 24,Charity Donation,Less Operating Expenses,10.0,0,43539e6d-d388-481c-8bab-d8c968984e11,0.0,10.07,0.0,0.0,0.0,10.0,10.0
+30 Nov 24,Consultancies,Less Operating Expenses,87664.96,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+30 Sep 24,Consultancies,Less Operating Expenses,113673.31,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+31 Aug 24,Consultancies,Less Operating Expenses,92924.22,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+31 Dec 24,Consultancies,Less Operating Expenses,33723.57,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+31 Jan 25,Consultancies,Less Operating Expenses,91703.35,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+31 Jul 24,Consultancies,Less Operating Expenses,33860.64,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+31 Oct 24,Consultancies,Less Operating Expenses,87091.11,0,2a826e35-1d9e-4b13-a650-b43db4594ce9,87664.96,113673.31,92924.22,33723.57,91703.35,33860.64,87091.11
+30 Nov 24,Corporation Tax expense,Less Operating Expenses,0.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+30 Sep 24,Corporation Tax expense,Less Operating Expenses,0.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+31 Aug 24,Corporation Tax expense,Less Operating Expenses,0.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+31 Dec 24,Corporation Tax expense,Less Operating Expenses,115707.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+31 Jan 25,Corporation Tax expense,Less Operating Expenses,0.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+31 Jul 24,Corporation Tax expense,Less Operating Expenses,0.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+31 Oct 24,Corporation Tax expense,Less Operating Expenses,0.0,0,0aea8e6b-b2b6-4c4b-89fb-03d0646ee851,0.0,0.0,0.0,115707.0,0.0,0.0,0.0
+30 Nov 24,Cost of sales - Battery - In-App Fees,Less Cost of Sales,0.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+30 Sep 24,Cost of sales - Battery - In-App Fees,Less Cost of Sales,0.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+31 Aug 24,Cost of sales - Battery - In-App Fees,Less Cost of Sales,0.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+31 Dec 24,Cost of sales - Battery - In-App Fees,Less Cost of Sales,101474.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+31 Jan 25,Cost of sales - Battery - In-App Fees,Less Cost of Sales,0.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+31 Jul 24,Cost of sales - Battery - In-App Fees,Less Cost of Sales,0.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+31 Oct 24,Cost of sales - Battery - In-App Fees,Less Cost of Sales,0.0,0,0b0d0d40-20b0-4718-970c-39dc7ed2dd69,0.0,0.0,0.0,101474.0,0.0,0.0,0.0
+30 Nov 24,Cost of sales - Battery used,Less Cost of Sales,0.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+30 Sep 24,Cost of sales - Battery used,Less Cost of Sales,0.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+31 Aug 24,Cost of sales - Battery used,Less Cost of Sales,0.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+31 Dec 24,Cost of sales - Battery used,Less Cost of Sales,2091944.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+31 Jan 25,Cost of sales - Battery used,Less Cost of Sales,0.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+31 Jul 24,Cost of sales - Battery used,Less Cost of Sales,0.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+31 Oct 24,Cost of sales - Battery used,Less Cost of Sales,0.0,0,9f3c39ea-78ec-439f-9ed6-6e46ddf1aff1,0.0,0.0,0.0,2091944.0,0.0,0.0,0.0
+30 Nov 24,Cost of sales - Gaseless gas used,Less Cost of Sales,0.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+30 Sep 24,Cost of sales - Gaseless gas used,Less Cost of Sales,0.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+31 Aug 24,Cost of sales - Gaseless gas used,Less Cost of Sales,0.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+31 Dec 24,Cost of sales - Gaseless gas used,Less Cost of Sales,306200.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+31 Jan 25,Cost of sales - Gaseless gas used,Less Cost of Sales,0.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+31 Jul 24,Cost of sales - Gaseless gas used,Less Cost of Sales,0.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+31 Oct 24,Cost of sales - Gaseless gas used,Less Cost of Sales,0.0,0,5b4e2c1d-bec1-4be4-9495-e53588b71acf,0.0,0.0,0.0,306200.0,0.0,0.0,0.0
+30 Nov 24,Credit loss expenses,Less Operating Expenses,0.0,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+30 Sep 24,Credit loss expenses,Less Operating Expenses,0.0,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+31 Aug 24,Credit loss expenses,Less Operating Expenses,0.0,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+31 Dec 24,Credit loss expenses,Less Operating Expenses,33631.18,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+31 Jan 25,Credit loss expenses,Less Operating Expenses,0.0,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+31 Jul 24,Credit loss expenses,Less Operating Expenses,0.0,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+31 Oct 24,Credit loss expenses,Less Operating Expenses,0.0,0,92c970b1-c84a-49a2-8df3-f16679e3db35,0.0,0.0,0.0,33631.18,0.0,0.0,0.0
+30 Nov 24,Depreciation expense,Less Operating Expenses,118.74,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+30 Sep 24,Depreciation expense,Less Operating Expenses,118.72,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+31 Aug 24,Depreciation expense,Less Operating Expenses,118.73,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+31 Dec 24,Depreciation expense,Less Operating Expenses,118.72,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+31 Jan 25,Depreciation expense,Less Operating Expenses,0.0,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+31 Jul 24,Depreciation expense,Less Operating Expenses,60.13,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+31 Oct 24,Depreciation expense,Less Operating Expenses,118.72,0,066868cf-3967-4dd6-baaf-d9fb92f1b6c1,118.74,118.72,118.73,118.72,0.0,60.13,118.72
+30 Nov 24,Development expenses,Less Cost of Sales,0.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+30 Sep 24,Development expenses,Less Cost of Sales,0.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+31 Aug 24,Development expenses,Less Cost of Sales,0.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+31 Dec 24,Development expenses,Less Cost of Sales,700761.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+31 Jan 25,Development expenses,Less Cost of Sales,0.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+31 Jul 24,Development expenses,Less Cost of Sales,0.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+31 Oct 24,Development expenses,Less Cost of Sales,0.0,0,9895b64d-aa73-47ec-8fe4-dfd913a0933b,0.0,0.0,0.0,700761.0,0.0,0.0,0.0
+30 Nov 24,Employer's NI contribution,Less Operating Expenses,5443.0,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+30 Sep 24,Employer's NI contribution,Less Operating Expenses,0.0,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+31 Aug 24,Employer's NI contribution,Less Operating Expenses,0.0,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+31 Dec 24,Employer's NI contribution,Less Operating Expenses,1744.6,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+31 Jan 25,Employer's NI contribution,Less Operating Expenses,0.0,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+31 Jul 24,Employer's NI contribution,Less Operating Expenses,0.0,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+31 Oct 24,Employer's NI contribution,Less Operating Expenses,0.0,0,77db9bc3-8071-4dbe-ab14-63a3157de975,5443.0,0.0,0.0,1744.6,0.0,0.0,0.0
+30 Nov 24,Foreign Currency Gains and Losses,Less Operating Expenses,-2599.24,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+30 Sep 24,Foreign Currency Gains and Losses,Less Operating Expenses,6222.99,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+31 Aug 24,Foreign Currency Gains and Losses,Less Operating Expenses,-18244.24,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+31 Dec 24,Foreign Currency Gains and Losses,Less Operating Expenses,3112.47,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+31 Jan 25,Foreign Currency Gains and Losses,Less Operating Expenses,405.79,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+31 Jul 24,Foreign Currency Gains and Losses,Less Operating Expenses,4115.92,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+31 Oct 24,Foreign Currency Gains and Losses,Less Operating Expenses,-5297.68,0,FXGROUPID,-2599.24,6222.99,-18244.24,3112.47,405.79,4115.92,-5297.68
+30 Nov 24,Gas fees,Less Cost of Sales,25.76,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+30 Sep 24,Gas fees,Less Cost of Sales,23.56,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+31 Aug 24,Gas fees,Less Cost of Sales,22.34,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+31 Dec 24,Gas fees,Less Cost of Sales,76515.68,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+31 Jan 25,Gas fees,Less Cost of Sales,13.04,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+31 Jul 24,Gas fees,Less Cost of Sales,17.37,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+31 Oct 24,Gas fees,Less Cost of Sales,34.38,0,edbd06ea-f377-4338-b9e3-372b14f0dfd4,25.76,23.56,22.34,76515.68,13.04,17.37,34.38
+30 Nov 24,Gasless Revenue,Income,0.0,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+30 Sep 24,Gasless Revenue,Income,0.0,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+31 Aug 24,Gasless Revenue,Income,0.0,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+31 Dec 24,Gasless Revenue,Income,557254.81,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+31 Jan 25,Gasless Revenue,Income,0.0,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+31 Jul 24,Gasless Revenue,Income,0.0,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+31 Oct 24,Gasless Revenue,Income,0.0,0,3ee9e800-f82d-4fca-ae4f-4bc96ac69fc1,0.0,0.0,0.0,557254.81,0.0,0.0,0.0
+30 Nov 24,Gross Profit,,266464.13,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+30 Sep 24,Gross Profit,,349038.33,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+31 Aug 24,Gross Profit,,305395.66,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+31 Dec 24,Gross Profit,,-198539.73,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+31 Jan 25,Gross Profit,,209859.36,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+31 Jul 24,Gross Profit,,267279.7,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+31 Oct 24,Gross Profit,,163081.69,0,,266464.13,349038.33,305395.66,-198539.73,209859.36,267279.7,163081.69
+30 Nov 24,Gross salary,Less Operating Expenses,40200.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+30 Sep 24,Gross salary,Less Operating Expenses,0.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+31 Aug 24,Gross salary,Less Operating Expenses,0.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+31 Dec 24,Gross salary,Less Operating Expenses,13400.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+31 Jan 25,Gross salary,Less Operating Expenses,0.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+31 Jul 24,Gross salary,Less Operating Expenses,0.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+31 Oct 24,Gross salary,Less Operating Expenses,0.0,0,4a43bd95-feaf-4494-a8c9-f8702e8244fd,40200.0,0.0,0.0,13400.0,0.0,0.0,0.0
+30 Nov 24,IT & software expense,Less Operating Expenses,13080.92,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+30 Sep 24,IT & software expense,Less Operating Expenses,7429.92,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+31 Aug 24,IT & software expense,Less Operating Expenses,1040.86,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+31 Dec 24,IT & software expense,Less Operating Expenses,1775.38,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+31 Jan 25,IT & software expense,Less Operating Expenses,1340.56,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+31 Jul 24,IT & software expense,Less Operating Expenses,653.89,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+31 Oct 24,IT & software expense,Less Operating Expenses,1410.04,0,27e3dd34-14c3-4fbb-898b-f0d3228e6a36,13080.92,7429.92,1040.86,1775.38,1340.56,653.89,1410.04
+30 Nov 24,Interest income,Plus Other Income,0.0,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+30 Sep 24,Interest income,Plus Other Income,0.04,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+31 Aug 24,Interest income,Plus Other Income,0.0,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+31 Dec 24,Interest income,Plus Other Income,236.22,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+31 Jan 25,Interest income,Plus Other Income,0.0,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+31 Jul 24,Interest income,Plus Other Income,0.0,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+31 Oct 24,Interest income,Plus Other Income,0.0,0,868a542d-441b-4e0f-805d-2e1b7d286563,0.0,0.04,0.0,236.22,0.0,0.0,0.0
+30 Nov 24,Inventory write-off,Less Cost of Sales,0.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+30 Sep 24,Inventory write-off,Less Cost of Sales,0.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+31 Aug 24,Inventory write-off,Less Cost of Sales,0.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+31 Dec 24,Inventory write-off,Less Cost of Sales,117191.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+31 Jan 25,Inventory write-off,Less Cost of Sales,0.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+31 Jul 24,Inventory write-off,Less Cost of Sales,0.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+31 Oct 24,Inventory write-off,Less Cost of Sales,0.0,0,6cdba56b-f5f6-4bd3-a182-5f40f8762dba,0.0,0.0,0.0,117191.0,0.0,0.0,0.0
+30 Nov 24,Legal - Archax,Less Operating Expenses,15000.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+30 Sep 24,Legal - Archax,Less Operating Expenses,0.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+31 Aug 24,Legal - Archax,Less Operating Expenses,0.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+31 Dec 24,Legal - Archax,Less Operating Expenses,0.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+31 Jan 25,Legal - Archax,Less Operating Expenses,0.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+31 Jul 24,Legal - Archax,Less Operating Expenses,0.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+31 Oct 24,Legal - Archax,Less Operating Expenses,0.0,0,af5815b0-bb1e-428d-9e47-78b8b0bf05ce,15000.0,0.0,0.0,0.0,0.0,0.0,0.0
+30 Nov 24,Legal cost,Less Operating Expenses,3934.71,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+30 Sep 24,Legal cost,Less Operating Expenses,0.0,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+31 Aug 24,Legal cost,Less Operating Expenses,0.0,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+31 Dec 24,Legal cost,Less Operating Expenses,9294.0,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+31 Jan 25,Legal cost,Less Operating Expenses,6516.1,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+31 Jul 24,Legal cost,Less Operating Expenses,1316.39,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+31 Oct 24,Legal cost,Less Operating Expenses,48657.43,0,00b37fa4-e517-40be-acdd-7d1196f7f862,3934.71,0.0,0.0,9294.0,6516.1,1316.39,48657.43
+30 Nov 24,Marketing expense,Less Operating Expenses,15406.18,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+30 Sep 24,Marketing expense,Less Operating Expenses,37997.52,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+31 Aug 24,Marketing expense,Less Operating Expenses,12442.9,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+31 Dec 24,Marketing expense,Less Operating Expenses,25712.16,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+31 Jan 25,Marketing expense,Less Operating Expenses,25486.08,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+31 Jul 24,Marketing expense,Less Operating Expenses,18089.63,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+31 Oct 24,Marketing expense,Less Operating Expenses,44298.53,0,2c278678-cb30-4158-a83a-346bd535ad4e,15406.18,37997.52,12442.9,25712.16,25486.08,18089.63,44298.53
+30 Nov 24,Net Profit,,-12662.95,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+30 Sep 24,Net Profit,,-236867.11,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+31 Aug 24,Net Profit,,68480.73,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+31 Dec 24,Net Profit,,-23281.85,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+31 Jan 25,Net Profit,,-31755.92,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+31 Jul 24,Net Profit,,152065.42,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+31 Oct 24,Net Profit,,-487505.85,0,,-12662.95,-236867.11,68480.73,-23281.85,-31755.92,152065.42,-487505.85
+30 Nov 24,Office rent,Less Operating Expenses,153.39,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+30 Sep 24,Office rent,Less Operating Expenses,516.34,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+31 Aug 24,Office rent,Less Operating Expenses,0.0,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+31 Dec 24,Office rent,Less Operating Expenses,0.0,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+31 Jan 25,Office rent,Less Operating Expenses,0.0,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+31 Jul 24,Office rent,Less Operating Expenses,0.0,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+31 Oct 24,Office rent,Less Operating Expenses,0.0,0,38cb7fe5-bef9-49a4-886c-53085d5df954,153.39,516.34,0.0,0.0,0.0,0.0,0.0
+30 Nov 24,Other Revenue,Income,0.0,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+30 Sep 24,Other Revenue,Income,0.0,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+31 Aug 24,Other Revenue,Income,0.0,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+31 Dec 24,Other Revenue,Income,749813.81,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+31 Jan 25,Other Revenue,Income,0.0,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+31 Jul 24,Other Revenue,Income,0.0,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+31 Oct 24,Other Revenue,Income,0.0,0,4b744ef9-8963-4a91-b757-35ca47a9980c,0.0,0.0,0.0,749813.81,0.0,0.0,0.0
+30 Nov 24,Other battery revenue,Income,0.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+30 Sep 24,Other battery revenue,Income,0.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+31 Aug 24,Other battery revenue,Income,0.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+31 Dec 24,Other battery revenue,Income,84414.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+31 Jan 25,Other battery revenue,Income,0.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+31 Jul 24,Other battery revenue,Income,0.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+31 Oct 24,Other battery revenue,Income,0.0,0,e2a9e257-9040-4474-86eb-5467b5c14acd,0.0,0.0,0.0,84414.0,0.0,0.0,0.0
+30 Nov 24,Other expenses - not UK,Less Operating Expenses,0.0,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+30 Sep 24,Other expenses - not UK,Less Operating Expenses,-1.09,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+31 Aug 24,Other expenses - not UK,Less Operating Expenses,397.73,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+31 Dec 24,Other expenses - not UK,Less Operating Expenses,15.76,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+31 Jan 25,Other expenses - not UK,Less Operating Expenses,0.0,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+31 Jul 24,Other expenses - not UK,Less Operating Expenses,0.0,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+31 Oct 24,Other expenses - not UK,Less Operating Expenses,0.0,0,d8dca165-3e18-4d2a-8a13-237d160b5fc9,0.0,-1.09,397.73,15.76,0.0,0.0,0.0
+30 Nov 24,PR agencies non UK,Less Operating Expenses,0.0,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+30 Sep 24,PR agencies non UK,Less Operating Expenses,7561.43,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+31 Aug 24,PR agencies non UK,Less Operating Expenses,0.0,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+31 Dec 24,PR agencies non UK,Less Operating Expenses,0.0,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+31 Jan 25,PR agencies non UK,Less Operating Expenses,0.0,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+31 Jul 24,PR agencies non UK,Less Operating Expenses,0.0,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+31 Oct 24,PR agencies non UK,Less Operating Expenses,41758.34,0,7f508c89-b335-436b-bca7-ae2106931fc2,0.0,7561.43,0.0,0.0,0.0,0.0,41758.34
+30 Nov 24,Patent and trademark,Less Operating Expenses,0.0,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+30 Sep 24,Patent and trademark,Less Operating Expenses,0.0,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+31 Aug 24,Patent and trademark,Less Operating Expenses,0.0,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+31 Dec 24,Patent and trademark,Less Operating Expenses,0.0,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+31 Jan 25,Patent and trademark,Less Operating Expenses,1110.43,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+31 Jul 24,Patent and trademark,Less Operating Expenses,5216.15,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+31 Oct 24,Patent and trademark,Less Operating Expenses,0.0,0,9e96f5a3-98fe-46c1-b6ff-f9830bc12c51,0.0,0.0,0.0,0.0,1110.43,5216.15,0.0
+30 Nov 24,Performance marketing,Less Operating Expenses,0.0,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+30 Sep 24,Performance marketing,Less Operating Expenses,0.0,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+31 Aug 24,Performance marketing,Less Operating Expenses,0.0,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+31 Dec 24,Performance marketing,Less Operating Expenses,0.0,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+31 Jan 25,Performance marketing,Less Operating Expenses,295.01,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+31 Jul 24,Performance marketing,Less Operating Expenses,0.0,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+31 Oct 24,Performance marketing,Less Operating Expenses,0.0,0,055d755d-7a0d-4081-957b-aba0a4d299fd,0.0,0.0,0.0,0.0,295.01,0.0,0.0
+30 Nov 24,Plan Subscription Income,Income,0.0,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+30 Sep 24,Plan Subscription Income,Income,0.0,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+31 Aug 24,Plan Subscription Income,Income,0.0,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+31 Dec 24,Plan Subscription Income,Income,19758.74,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+31 Jan 25,Plan Subscription Income,Income,0.0,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+31 Jul 24,Plan Subscription Income,Income,0.0,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+31 Oct 24,Plan Subscription Income,Income,0.0,0,2c873a38-d112-4560-ba11-d3ee78d2a63c,0.0,0.0,0.0,19758.74,0.0,0.0,0.0
+30 Nov 24,Profit share income,Income,266489.89,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+30 Sep 24,Profit share income,Income,349061.89,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+31 Aug 24,Profit share income,Income,305418.0,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+31 Dec 24,Profit share income,Income,540254.47,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+31 Jan 25,Profit share income,Income,209872.4,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+31 Jul 24,Profit share income,Income,267297.07,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+31 Oct 24,Profit share income,Income,163116.07,0,1823c909-419a-4f6d-b6fb-f41f6b9fb9ff,266489.89,349061.89,305418.0,540254.47,209872.4,267297.07,163116.07
+30 Nov 24,Realised gain/loss - digital assets,Plus Other Income,-63398.53,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+30 Sep 24,Realised gain/loss - digital assets,Plus Other Income,-173275.65,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+31 Aug 24,Realised gain/loss - digital assets,Plus Other Income,-42794.26,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+31 Dec 24,Realised gain/loss - digital assets,Plus Other Income,58933.14,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+31 Jan 25,Realised gain/loss - digital assets,Plus Other Income,-44312.65,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+31 Jul 24,Realised gain/loss - digital assets,Plus Other Income,-23458.2,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+31 Oct 24,Realised gain/loss - digital assets,Plus Other Income,-39638.42,0,9facad04-1c4f-4676-a1a8-34af6e7bc77d,-63398.53,-173275.65,-42794.26,58933.14,-44312.65,-23458.2,-39638.42
+30 Nov 24,Royalty expense,Less Cost of Sales,0.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+30 Sep 24,Royalty expense,Less Cost of Sales,0.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+31 Aug 24,Royalty expense,Less Cost of Sales,0.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+31 Dec 24,Royalty expense,Less Cost of Sales,1796953.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+31 Jan 25,Royalty expense,Less Cost of Sales,0.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+31 Jul 24,Royalty expense,Less Cost of Sales,0.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+31 Oct 24,Royalty expense,Less Cost of Sales,0.0,0,d59fb3c8-dfa3-4972-97bd-b0b03ebf1d1c,0.0,0.0,0.0,1796953.0,0.0,0.0,0.0
+30 Nov 24,Server,Less Operating Expenses,30863.91,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+30 Sep 24,Server,Less Operating Expenses,25965.35,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+31 Aug 24,Server,Less Operating Expenses,12971.55,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+31 Dec 24,Server,Less Operating Expenses,30783.56,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+31 Jan 25,Server,Less Operating Expenses,33673.24,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+31 Jul 24,Server,Less Operating Expenses,7656.91,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+31 Oct 24,Server,Less Operating Expenses,36695.33,0,125ebac8-ab90-47fb-b00a-c97ee9934781,30863.91,25965.35,12971.55,30783.56,33673.24,7656.91,36695.33
+30 Nov 24,Service agreement Armenia CC200,Less Operating Expenses,0.0,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+30 Sep 24,Service agreement Armenia CC200,Less Operating Expenses,123836.89,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+31 Aug 24,Service agreement Armenia CC200,Less Operating Expenses,46077.14,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+31 Dec 24,Service agreement Armenia CC200,Less Operating Expenses,-161972.85,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+31 Jan 25,Service agreement Armenia CC200,Less Operating Expenses,0.0,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+31 Jul 24,Service agreement Armenia CC200,Less Operating Expenses,0.0,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+31 Oct 24,Service agreement Armenia CC200,Less Operating Expenses,0.0,0,26eea76d-5adf-4d29-9b7d-44063cf09e0b,0.0,123836.89,46077.14,-161972.85,0.0,0.0,0.0
+30 Nov 24,Service agreement Armenia CC210,Less Operating Expenses,0.0,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+30 Sep 24,Service agreement Armenia CC210,Less Operating Expenses,66681.4,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+31 Aug 24,Service agreement Armenia CC210,Less Operating Expenses,24810.77,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+31 Dec 24,Service agreement Armenia CC210,Less Operating Expenses,-87216.15,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+31 Jan 25,Service agreement Armenia CC210,Less Operating Expenses,0.0,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+31 Jul 24,Service agreement Armenia CC210,Less Operating Expenses,0.0,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+31 Oct 24,Service agreement Armenia CC210,Less Operating Expenses,0.0,0,ae650c37-5943-45a7-adee-efe670fc332d,0.0,66681.4,24810.77,-87216.15,0.0,0.0,0.0
+30 Nov 24,Service agreement with OOO,Less Operating Expenses,0.0,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+30 Sep 24,Service agreement with OOO,Less Operating Expenses,0.0,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+31 Aug 24,Service agreement with OOO,Less Operating Expenses,0.0,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+31 Dec 24,Service agreement with OOO,Less Operating Expenses,-258935.0,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+31 Jan 25,Service agreement with OOO,Less Operating Expenses,0.0,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+31 Jul 24,Service agreement with OOO,Less Operating Expenses,0.0,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+31 Oct 24,Service agreement with OOO,Less Operating Expenses,336616.03,0,8b2d468a-9482-4769-ab26-b7c99a92a4c0,0.0,0.0,0.0,-258935.0,0.0,0.0,336616.03
+30 Nov 24,"Small personnel related expenses , not UK",Less Operating Expenses,0.0,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+30 Sep 24,"Small personnel related expenses , not UK",Less Operating Expenses,114.71,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+31 Aug 24,"Small personnel related expenses , not UK",Less Operating Expenses,256.03,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+31 Dec 24,"Small personnel related expenses , not UK",Less Operating Expenses,3091.96,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+31 Jan 25,"Small personnel related expenses , not UK",Less Operating Expenses,2909.66,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+31 Jul 24,"Small personnel related expenses , not UK",Less Operating Expenses,4.51,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+31 Oct 24,"Small personnel related expenses , not UK",Less Operating Expenses,1024.44,0,93de7006-9028-4d4c-bb3c-00ce7f8f2efe,0.0,114.71,256.03,3091.96,2909.66,4.51,1024.44
+30 Nov 24,Staff reimbursement,Less Operating Expenses,0.0,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+30 Sep 24,Staff reimbursement,Less Operating Expenses,0.0,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+31 Aug 24,Staff reimbursement,Less Operating Expenses,0.0,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+31 Dec 24,Staff reimbursement,Less Operating Expenses,0.0,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+31 Jan 25,Staff reimbursement,Less Operating Expenses,0.0,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+31 Jul 24,Staff reimbursement,Less Operating Expenses,23.36,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+31 Oct 24,Staff reimbursement,Less Operating Expenses,0.0,0,f8b73f7e-6473-4d72-b0ce-f1f7ccc1f543,0.0,0.0,0.0,0.0,0.0,23.36,0.0
+30 Nov 24,Tax advisory fees,Less Operating Expenses,0.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+30 Sep 24,Tax advisory fees,Less Operating Expenses,0.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+31 Aug 24,Tax advisory fees,Less Operating Expenses,0.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+31 Dec 24,Tax advisory fees,Less Operating Expenses,37000.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+31 Jan 25,Tax advisory fees,Less Operating Expenses,0.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+31 Jul 24,Tax advisory fees,Less Operating Expenses,0.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+31 Oct 24,Tax advisory fees,Less Operating Expenses,0.0,0,b08b15ba-487a-4fac-a3f0-6cecda26012d,0.0,0.0,0.0,37000.0,0.0,0.0,0.0
+30 Nov 24,Total Cost of Sales,Less Cost of Sales,25.76,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+30 Sep 24,Total Cost of Sales,Less Cost of Sales,23.56,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+31 Aug 24,Total Cost of Sales,Less Cost of Sales,22.34,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+31 Dec 24,Total Cost of Sales,Less Cost of Sales,5357805.68,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+31 Jan 25,Total Cost of Sales,Less Cost of Sales,13.04,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+31 Jul 24,Total Cost of Sales,Less Cost of Sales,17.37,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+31 Oct 24,Total Cost of Sales,Less Cost of Sales,34.38,1,,25.76,23.56,22.34,5357805.68,13.04,17.37,34.38
+30 Nov 24,Total Income,Income,266489.89,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+30 Sep 24,Total Income,Income,349061.89,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+31 Aug 24,Total Income,Income,305418.0,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+31 Dec 24,Total Income,Income,5159265.95,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+31 Jan 25,Total Income,Income,209872.4,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+31 Jul 24,Total Income,Income,267297.07,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+31 Oct 24,Total Income,Income,163116.07,1,,266489.89,349061.89,305418.0,5159265.95,209872.4,267297.07,163116.07
+30 Nov 24,Total Operating Expenses,Less Operating Expenses,215728.55,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+30 Sep 24,Total Operating Expenses,Less Operating Expenses,412629.83,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+31 Aug 24,Total Operating Expenses,Less Operating Expenses,194120.67,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+31 Dec 24,Total Operating Expenses,Less Operating Expenses,-116088.52,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+31 Jan 25,Total Operating Expenses,Less Operating Expenses,197302.63,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+31 Jul 24,Total Operating Expenses,Less Operating Expenses,91756.08,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+31 Oct 24,Total Operating Expenses,Less Operating Expenses,610949.12,1,,215728.55,412629.83,194120.67,-116088.52,197302.63,91756.08,610949.12
+30 Nov 24,Total Other Income,Plus Other Income,-63398.53,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+30 Sep 24,Total Other Income,Plus Other Income,-173275.61,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+31 Aug 24,Total Other Income,Plus Other Income,-42794.26,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+31 Dec 24,Total Other Income,Plus Other Income,59169.36,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+31 Jan 25,Total Other Income,Plus Other Income,-44312.65,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+31 Jul 24,Total Other Income,Plus Other Income,-23458.2,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+31 Oct 24,Total Other Income,Plus Other Income,-39638.42,1,,-63398.53,-173275.61,-42794.26,59169.36,-44312.65,-23458.2,-39638.42
+30 Nov 24,Travel expense,Less Operating Expenses,6376.97,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+30 Sep 24,Travel expense,Less Operating Expenses,15290.0,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+31 Aug 24,Travel expense,Less Operating Expenses,8140.25,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+31 Dec 24,Travel expense,Less Operating Expenses,813.15,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+31 Jan 25,Travel expense,Less Operating Expenses,24288.29,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+31 Jul 24,Travel expense,Less Operating Expenses,19140.76,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+31 Oct 24,Travel expense,Less Operating Expenses,11866.55,0,8be73c3b-16d0-442f-ab1e-f18cb368ccd8,6376.97,15290.0,8140.25,813.15,24288.29,19140.76,11866.55
+30 Nov 24,Unrealised Currency Loss,Less Operating Expenses,0.0,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+30 Sep 24,Unrealised Currency Loss,Less Operating Expenses,0.0,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+31 Aug 24,Unrealised Currency Loss,Less Operating Expenses,0.0,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+31 Dec 24,Unrealised Currency Loss,Less Operating Expenses,39646.44,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+31 Jan 25,Unrealised Currency Loss,Less Operating Expenses,0.0,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+31 Jul 24,Unrealised Currency Loss,Less Operating Expenses,0.0,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+31 Oct 24,Unrealised Currency Loss,Less Operating Expenses,0.0,0,397ea056-d03a-4716-933e-ec05c29b1290,0.0,0.0,0.0,39646.44,0.0,0.0,0.0
+30 Nov 24,Utility bills,Less Operating Expenses,21.24,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+30 Sep 24,Utility bills,Less Operating Expenses,0.0,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+31 Aug 24,Utility bills,Less Operating Expenses,0.0,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+31 Dec 24,Utility bills,Less Operating Expenses,0.0,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+31 Jan 25,Utility bills,Less Operating Expenses,0.0,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+31 Jul 24,Utility bills,Less Operating Expenses,0.0,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+31 Oct 24,Utility bills,Less Operating Expenses,0.0,0,f14ee6c9-ca10-4486-add7-d5c767254ed5,21.24,0.0,0.0,0.0,0.0,0.0,0.0
+30 Nov 24,other equipment expense,Less Operating Expenses,0.0,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0
+30 Sep 24,other equipment expense,Less Operating Expenses,0.0,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0
+31 Aug 24,other equipment expense,Less Operating Expenses,2165.09,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0
+31 Dec 24,other equipment expense,Less Operating Expenses,0.0,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0
+31 Jan 25,other equipment expense,Less Operating Expenses,0.0,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0
+31 Jul 24,other equipment expense,Less Operating Expenses,296.41,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0
+31 Oct 24,other equipment expense,Less Operating Expenses,0.0,0,de01ffd3-76eb-4576-af65-7c93513dcda2,0.0,0.0,2165.09,0.0,0.0,296.41,0.0

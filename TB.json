@@ -1,0 +1,4625 @@
+{
+  "Id": "3605c964-ca25-4b77-abb0-583257c113f4",
+  "Status": "OK",
+  "ProviderName": "Reconciliation pipeline",
+  "DateTimeUTC": "/Date(1769184237931)/",
+  "Reports": [
+    {
+      "ReportID": "TrialBalance",
+      "ReportName": "Trial Balance",
+      "ReportType": "TrialBalance",
+      "ReportTitles": [
+        "Trial Balance",
+        "Ton Apps UK Limited",
+        "As at 23 January 2026"
+      ],
+      "ReportDate": "23 January 2026",
+      "UpdatedDateUTC": "/Date(1769184237931)/",
+      "Fields": [],
+      "Rows": [
+        {
+          "RowType": "Header",
+          "Cells": [
+            {
+              "Value": "Account"
+            },
+            {
+              "Value": "Debit"
+            },
+            {
+              "Value": "Credit"
+            },
+            {
+              "Value": "YTD Debit"
+            },
+            {
+              "Value": "YTD Credit"
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Expenses",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Bank fees (9006)",
+                  "Attributes": [
+                    {
+                      "Value": "a7eb5b4c-9220-475f-a90c-5b22ee0af6cd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "5000.00",
+                  "Attributes": [
+                    {
+                      "Value": "a7eb5b4c-9220-475f-a90c-5b22ee0af6cd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "a7eb5b4c-9220-475f-a90c-5b22ee0af6cd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "5000.00",
+                  "Attributes": [
+                    {
+                      "Value": "a7eb5b4c-9220-475f-a90c-5b22ee0af6cd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "a7eb5b4c-9220-475f-a90c-5b22ee0af6cd",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Bank Revaluations (9994)",
+                  "Attributes": [
+                    {
+                      "Value": "03ac8722-fea3-40c2-be19-a3f65b389f1c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "607.37",
+                  "Attributes": [
+                    {
+                      "Value": "03ac8722-fea3-40c2-be19-a3f65b389f1c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "03ac8722-fea3-40c2-be19-a3f65b389f1c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "607.37",
+                  "Attributes": [
+                    {
+                      "Value": "03ac8722-fea3-40c2-be19-a3f65b389f1c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "03ac8722-fea3-40c2-be19-a3f65b389f1c",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Consultancies (9010)",
+                  "Attributes": [
+                    {
+                      "Value": "2a826e35-1d9e-4b13-a650-b43db4594ce9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "6083.06",
+                  "Attributes": [
+                    {
+                      "Value": "2a826e35-1d9e-4b13-a650-b43db4594ce9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "2a826e35-1d9e-4b13-a650-b43db4594ce9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "6083.06",
+                  "Attributes": [
+                    {
+                      "Value": "2a826e35-1d9e-4b13-a650-b43db4594ce9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "2a826e35-1d9e-4b13-a650-b43db4594ce9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "IT & software expense (9017)",
+                  "Attributes": [
+                    {
+                      "Value": "27e3dd34-14c3-4fbb-898b-f0d3228e6a36",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "886.87",
+                  "Attributes": [
+                    {
+                      "Value": "27e3dd34-14c3-4fbb-898b-f0d3228e6a36",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "27e3dd34-14c3-4fbb-898b-f0d3228e6a36",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "886.87",
+                  "Attributes": [
+                    {
+                      "Value": "27e3dd34-14c3-4fbb-898b-f0d3228e6a36",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "27e3dd34-14c3-4fbb-898b-f0d3228e6a36",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Realised Currency Gains or Losses (499)",
+                  "Attributes": [
+                    {
+                      "Value": "1a48a222-83e5-4bdc-afb5-be9226be9555",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1a48a222-83e5-4bdc-afb5-be9226be9555",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "14.35",
+                  "Attributes": [
+                    {
+                      "Value": "1a48a222-83e5-4bdc-afb5-be9226be9555",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1a48a222-83e5-4bdc-afb5-be9226be9555",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "14.35",
+                  "Attributes": [
+                    {
+                      "Value": "1a48a222-83e5-4bdc-afb5-be9226be9555",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Server (9009)",
+                  "Attributes": [
+                    {
+                      "Value": "125ebac8-ab90-47fb-b00a-c97ee9934781",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "10784.60",
+                  "Attributes": [
+                    {
+                      "Value": "125ebac8-ab90-47fb-b00a-c97ee9934781",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "125ebac8-ab90-47fb-b00a-c97ee9934781",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "10784.60",
+                  "Attributes": [
+                    {
+                      "Value": "125ebac8-ab90-47fb-b00a-c97ee9934781",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "125ebac8-ab90-47fb-b00a-c97ee9934781",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Unrealised Currency Gains or Losses (498)",
+                  "Attributes": [
+                    {
+                      "Value": "e29bdac7-efd7-4c1a-a1bb-ddaf18f4c17a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1589.54",
+                  "Attributes": [
+                    {
+                      "Value": "e29bdac7-efd7-4c1a-a1bb-ddaf18f4c17a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "e29bdac7-efd7-4c1a-a1bb-ddaf18f4c17a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1589.54",
+                  "Attributes": [
+                    {
+                      "Value": "e29bdac7-efd7-4c1a-a1bb-ddaf18f4c17a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "e29bdac7-efd7-4c1a-a1bb-ddaf18f4c17a",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Assets",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "0x59C7 - Treasury ETH - ETH (1015)",
+                  "Attributes": [
+                    {
+                      "Value": "ceb5c4e9-3815-4f4e-b506-41035cdce0d0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "ceb5c4e9-3815-4f4e-b506-41035cdce0d0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ceb5c4e9-3815-4f4e-b506-41035cdce0d0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "18.36",
+                  "Attributes": [
+                    {
+                      "Value": "ceb5c4e9-3815-4f4e-b506-41035cdce0d0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ceb5c4e9-3815-4f4e-b506-41035cdce0d0",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "0x59C7 - Treasury ETH - USDT (1016)",
+                  "Attributes": [
+                    {
+                      "Value": "f074efb7-7ee9-4d5f-b5a5-f1849de6b78a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f074efb7-7ee9-4d5f-b5a5-f1849de6b78a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f074efb7-7ee9-4d5f-b5a5-f1849de6b78a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "71.69",
+                  "Attributes": [
+                    {
+                      "Value": "f074efb7-7ee9-4d5f-b5a5-f1849de6b78a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f074efb7-7ee9-4d5f-b5a5-f1849de6b78a",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "0x59C7 - Treasury USDC - USDC (1032)",
+                  "Attributes": [
+                    {
+                      "Value": "b7f4e422-c92c-477f-8135-e8fda325d0fe",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "b7f4e422-c92c-477f-8135-e8fda325d0fe",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b7f4e422-c92c-477f-8135-e8fda325d0fe",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4917.67",
+                  "Attributes": [
+                    {
+                      "Value": "b7f4e422-c92c-477f-8135-e8fda325d0fe",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b7f4e422-c92c-477f-8135-e8fda325d0fe",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "0xc3A6d - Changelly: USDT ERC-20 (1010)",
+                  "Attributes": [
+                    {
+                      "Value": "4c29e285-c102-4e27-9ce4-eeb8305c0a74",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "4c29e285-c102-4e27-9ce4-eeb8305c0a74",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "4c29e285-c102-4e27-9ce4-eeb8305c0a74",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "4c29e285-c102-4e27-9ce4-eeb8305c0a74",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4.45",
+                  "Attributes": [
+                    {
+                      "Value": "4c29e285-c102-4e27-9ce4-eeb8305c0a74",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "0xUQDWyk - TON (1026)",
+                  "Attributes": [
+                    {
+                      "Value": "178b6fe8-f257-4a04-ae2a-8ef7173c9c9b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "178b6fe8-f257-4a04-ae2a-8ef7173c9c9b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "178b6fe8-f257-4a04-ae2a-8ef7173c9c9b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "27634.27",
+                  "Attributes": [
+                    {
+                      "Value": "178b6fe8-f257-4a04-ae2a-8ef7173c9c9b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "178b6fe8-f257-4a04-ae2a-8ef7173c9c9b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Accounts Receivable Crypto (3003)",
+                  "Attributes": [
+                    {
+                      "Value": "b5e9e081-0d61-46f8-b6c2-eb49fa1d7c69",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b5e9e081-0d61-46f8-b6c2-eb49fa1d7c69",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2039.11",
+                  "Attributes": [
+                    {
+                      "Value": "b5e9e081-0d61-46f8-b6c2-eb49fa1d7c69",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "310105.63",
+                  "Attributes": [
+                    {
+                      "Value": "b5e9e081-0d61-46f8-b6c2-eb49fa1d7c69",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b5e9e081-0d61-46f8-b6c2-eb49fa1d7c69",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Battery revenue wallet TK (1104)",
+                  "Attributes": [
+                    {
+                      "Value": "0323fba6-17fb-4440-94ca-859549a985f0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "0323fba6-17fb-4440-94ca-859549a985f0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "0323fba6-17fb-4440-94ca-859549a985f0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "251524.78",
+                  "Attributes": [
+                    {
+                      "Value": "0323fba6-17fb-4440-94ca-859549a985f0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "0323fba6-17fb-4440-94ca-859549a985f0",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Battery.ton wallet (1102)",
+                  "Attributes": [
+                    {
+                      "Value": "ddb1a8c8-9d6d-4c46-a49e-efcd4857742e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "ddb1a8c8-9d6d-4c46-a49e-efcd4857742e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ddb1a8c8-9d6d-4c46-a49e-efcd4857742e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "94065.29",
+                  "Attributes": [
+                    {
+                      "Value": "ddb1a8c8-9d6d-4c46-a49e-efcd4857742e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ddb1a8c8-9d6d-4c46-a49e-efcd4857742e",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1q5 - Moonpay Profit Sharing wallet (1039)",
+                  "Attributes": [
+                    {
+                      "Value": "fe3caa61-d3ca-4473-82af-4466e9865311",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "fe3caa61-d3ca-4473-82af-4466e9865311",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "fe3caa61-d3ca-4473-82af-4466e9865311",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "55977.45",
+                  "Attributes": [
+                    {
+                      "Value": "fe3caa61-d3ca-4473-82af-4466e9865311",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "fe3caa61-d3ca-4473-82af-4466e9865311",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qa - UK BTC Treasury (1057)",
+                  "Attributes": [
+                    {
+                      "Value": "b3c0f19b-4782-4a19-801c-337b7eb9ee3f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "b3c0f19b-4782-4a19-801c-337b7eb9ee3f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b3c0f19b-4782-4a19-801c-337b7eb9ee3f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "185967.39",
+                  "Attributes": [
+                    {
+                      "Value": "b3c0f19b-4782-4a19-801c-337b7eb9ee3f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b3c0f19b-4782-4a19-801c-337b7eb9ee3f",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qcyqx - Letsexchange:BTC (1012)",
+                  "Attributes": [
+                    {
+                      "Value": "cba165d8-dfca-42f6-b62b-c9c1df6a1fde",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "cba165d8-dfca-42f6-b62b-c9c1df6a1fde",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "cba165d8-dfca-42f6-b62b-c9c1df6a1fde",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "32086.30",
+                  "Attributes": [
+                    {
+                      "Value": "cba165d8-dfca-42f6-b62b-c9c1df6a1fde",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "cba165d8-dfca-42f6-b62b-c9c1df6a1fde",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qd6 - Tonkeeper Mobile (1024)",
+                  "Attributes": [
+                    {
+                      "Value": "c1d2593c-7a57-4daf-bc5b-a5c8c9c406ef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "c1d2593c-7a57-4daf-bc5b-a5c8c9c406ef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "c1d2593c-7a57-4daf-bc5b-a5c8c9c406ef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "90844.26",
+                  "Attributes": [
+                    {
+                      "Value": "c1d2593c-7a57-4daf-bc5b-a5c8c9c406ef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "c1d2593c-7a57-4daf-bc5b-a5c8c9c406ef",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qq70h - Simpleswap: BTC (1011)",
+                  "Attributes": [
+                    {
+                      "Value": "d3993ee0-612e-4e0b-a2c8-768b63025670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "d3993ee0-612e-4e0b-a2c8-768b63025670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d3993ee0-612e-4e0b-a2c8-768b63025670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "23743.85",
+                  "Attributes": [
+                    {
+                      "Value": "d3993ee0-612e-4e0b-a2c8-768b63025670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d3993ee0-612e-4e0b-a2c8-768b63025670",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qr - Revenue Tonkeeper Mobile Avanchange (1024-2)",
+                  "Attributes": [
+                    {
+                      "Value": "77a1fd57-2ee3-43be-9581-2ebdb4447fb5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "77a1fd57-2ee3-43be-9581-2ebdb4447fb5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "77a1fd57-2ee3-43be-9581-2ebdb4447fb5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "13824.13",
+                  "Attributes": [
+                    {
+                      "Value": "77a1fd57-2ee3-43be-9581-2ebdb4447fb5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "77a1fd57-2ee3-43be-9581-2ebdb4447fb5",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qr0 - Ops - BTC (1018)",
+                  "Attributes": [
+                    {
+                      "Value": "d5a6ecd8-f621-40ac-b31e-af44b39c753e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "d5a6ecd8-f621-40ac-b31e-af44b39c753e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d5a6ecd8-f621-40ac-b31e-af44b39c753e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "988.30",
+                  "Attributes": [
+                    {
+                      "Value": "d5a6ecd8-f621-40ac-b31e-af44b39c753e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d5a6ecd8-f621-40ac-b31e-af44b39c753e",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "bc1qs - UK BTC Treasury 2 (1056)",
+                  "Attributes": [
+                    {
+                      "Value": "29035512-865d-4a31-a504-7f94ebc81b18",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "29035512-865d-4a31-a504-7f94ebc81b18",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "29035512-865d-4a31-a504-7f94ebc81b18",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1196646.26",
+                  "Attributes": [
+                    {
+                      "Value": "29035512-865d-4a31-a504-7f94ebc81b18",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "29035512-865d-4a31-a504-7f94ebc81b18",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "BTC - 0xbc1qll...4umnk8 (1025)",
+                  "Attributes": [
+                    {
+                      "Value": "d64779bf-09e2-4024-b925-ce90e2a6a1b2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "d64779bf-09e2-4024-b925-ce90e2a6a1b2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d64779bf-09e2-4024-b925-ce90e2a6a1b2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "953891.61",
+                  "Attributes": [
+                    {
+                      "Value": "d64779bf-09e2-4024-b925-ce90e2a6a1b2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d64779bf-09e2-4024-b925-ce90e2a6a1b2",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Cold Storage wallet (1103)",
+                  "Attributes": [
+                    {
+                      "Value": "5340f699-5933-4509-b816-65529afd1a0d",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "5340f699-5933-4509-b816-65529afd1a0d",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "5340f699-5933-4509-b816-65529afd1a0d",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4209332.60",
+                  "Attributes": [
+                    {
+                      "Value": "5340f699-5933-4509-b816-65529afd1a0d",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "5340f699-5933-4509-b816-65529afd1a0d",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Computer Equipment (4002)",
+                  "Attributes": [
+                    {
+                      "Value": "95b43dcf-9e7a-4169-852f-8c6d89562986",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "95b43dcf-9e7a-4169-852f-8c6d89562986",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "95b43dcf-9e7a-4169-852f-8c6d89562986",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "8032.92",
+                  "Attributes": [
+                    {
+                      "Value": "95b43dcf-9e7a-4169-852f-8c6d89562986",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "95b43dcf-9e7a-4169-852f-8c6d89562986",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Less Accumulated Depreciation on Computer Equipment (4003)",
+                  "Attributes": [
+                    {
+                      "Value": "d35c98a3-74fb-4e29-8458-f4b8ddc4cfd7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "d35c98a3-74fb-4e29-8458-f4b8ddc4cfd7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d35c98a3-74fb-4e29-8458-f4b8ddc4cfd7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d35c98a3-74fb-4e29-8458-f4b8ddc4cfd7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "677.47",
+                  "Attributes": [
+                    {
+                      "Value": "d35c98a3-74fb-4e29-8458-f4b8ddc4cfd7",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Crypto receivable debtor control account (3005)",
+                  "Attributes": [
+                    {
+                      "Value": "edf68639-7d02-4f73-90d2-4ff041f9bf37",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "edf68639-7d02-4f73-90d2-4ff041f9bf37",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "edf68639-7d02-4f73-90d2-4ff041f9bf37",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "256502.29",
+                  "Attributes": [
+                    {
+                      "Value": "edf68639-7d02-4f73-90d2-4ff041f9bf37",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "edf68639-7d02-4f73-90d2-4ff041f9bf37",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Crypto swaps control account (3006)",
+                  "Attributes": [
+                    {
+                      "Value": "b300f221-1cbe-4d78-b644-3f4a3f8ab505",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "b300f221-1cbe-4d78-b644-3f4a3f8ab505",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b300f221-1cbe-4d78-b644-3f4a3f8ab505",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b300f221-1cbe-4d78-b644-3f4a3f8ab505",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "307321.43",
+                  "Attributes": [
+                    {
+                      "Value": "b300f221-1cbe-4d78-b644-3f4a3f8ab505",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "DO NOT USE - old REAP account (0001A)",
+                  "Attributes": [
+                    {
+                      "Value": "537054df-ed71-4dd5-b2b6-db7284f4c7a2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.01",
+                  "Attributes": [
+                    {
+                      "Value": "537054df-ed71-4dd5-b2b6-db7284f4c7a2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "537054df-ed71-4dd5-b2b6-db7284f4c7a2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "537054df-ed71-4dd5-b2b6-db7284f4c7a2",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.77",
+                  "Attributes": [
+                    {
+                      "Value": "537054df-ed71-4dd5-b2b6-db7284f4c7a2",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "ETH - 0x0x5888...591105 (1028)",
+                  "Attributes": [
+                    {
+                      "Value": "d6f35d4e-463b-4dcb-bd83-4bdd2b6c3163",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "d6f35d4e-463b-4dcb-bd83-4bdd2b6c3163",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d6f35d4e-463b-4dcb-bd83-4bdd2b6c3163",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d6f35d4e-463b-4dcb-bd83-4bdd2b6c3163",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "15201.50",
+                  "Attributes": [
+                    {
+                      "Value": "d6f35d4e-463b-4dcb-bd83-4bdd2b6c3163",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "EUR - TON APPS UK limited (0004)",
+                  "Attributes": [
+                    {
+                      "Value": "3b39d939-72c9-48e3-a59b-08136d24eee9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "3b39d939-72c9-48e3-a59b-08136d24eee9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1.03",
+                  "Attributes": [
+                    {
+                      "Value": "3b39d939-72c9-48e3-a59b-08136d24eee9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "174.09",
+                  "Attributes": [
+                    {
+                      "Value": "3b39d939-72c9-48e3-a59b-08136d24eee9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "3b39d939-72c9-48e3-a59b-08136d24eee9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "GBP current - TON APPS UK LTD (0003)",
+                  "Attributes": [
+                    {
+                      "Value": "ad6724c5-9c61-45a2-a0ab-a6446b729a8e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ad6724c5-9c61-45a2-a0ab-a6446b729a8e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4185.43",
+                  "Attributes": [
+                    {
+                      "Value": "ad6724c5-9c61-45a2-a0ab-a6446b729a8e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "74.16",
+                  "Attributes": [
+                    {
+                      "Value": "ad6724c5-9c61-45a2-a0ab-a6446b729a8e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ad6724c5-9c61-45a2-a0ab-a6446b729a8e",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "In-app Battery revenue receivable (8990)",
+                  "Attributes": [
+                    {
+                      "Value": "d0c2bb7b-6338-471b-858e-32188c155587",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d0c2bb7b-6338-471b-858e-32188c155587",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3012.59",
+                  "Attributes": [
+                    {
+                      "Value": "d0c2bb7b-6338-471b-858e-32188c155587",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d0c2bb7b-6338-471b-858e-32188c155587",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "8430.53",
+                  "Attributes": [
+                    {
+                      "Value": "d0c2bb7b-6338-471b-858e-32188c155587",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Intercompany receivable - Trading (3101)",
+                  "Attributes": [
+                    {
+                      "Value": "10b12850-8dec-4ae6-9809-f598e6cf5749",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "10b12850-8dec-4ae6-9809-f598e6cf5749",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "10b12850-8dec-4ae6-9809-f598e6cf5749",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "621252.62",
+                  "Attributes": [
+                    {
+                      "Value": "10b12850-8dec-4ae6-9809-f598e6cf5749",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "10b12850-8dec-4ae6-9809-f598e6cf5749",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Intercompany receivables - non trading (3100)",
+                  "Attributes": [
+                    {
+                      "Value": "662da044-a430-4681-8fe4-49565c7aea82",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "662da044-a430-4681-8fe4-49565c7aea82",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "662da044-a430-4681-8fe4-49565c7aea82",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "24878.67",
+                  "Attributes": [
+                    {
+                      "Value": "662da044-a430-4681-8fe4-49565c7aea82",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "662da044-a430-4681-8fe4-49565c7aea82",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "OKX Control (3007)",
+                  "Attributes": [
+                    {
+                      "Value": "b07d258d-1078-4610-97aa-42c70f92f1c7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "b07d258d-1078-4610-97aa-42c70f92f1c7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b07d258d-1078-4610-97aa-42c70f92f1c7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b07d258d-1078-4610-97aa-42c70f92f1c7",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "31762.91",
+                  "Attributes": [
+                    {
+                      "Value": "b07d258d-1078-4610-97aa-42c70f92f1c7",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "OKX wallet (1052)",
+                  "Attributes": [
+                    {
+                      "Value": "529e756e-9a34-4c28-bde2-d8307df8196e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "529e756e-9a34-4c28-bde2-d8307df8196e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "529e756e-9a34-4c28-bde2-d8307df8196e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "529e756e-9a34-4c28-bde2-d8307df8196e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "17563.75",
+                  "Attributes": [
+                    {
+                      "Value": "529e756e-9a34-4c28-bde2-d8307df8196e",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Other Receivables (3001)",
+                  "Attributes": [
+                    {
+                      "Value": "f2b39b85-4e7a-49bb-8331-32b143001fca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f2b39b85-4e7a-49bb-8331-32b143001fca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f2b39b85-4e7a-49bb-8331-32b143001fca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1022.18",
+                  "Attributes": [
+                    {
+                      "Value": "f2b39b85-4e7a-49bb-8331-32b143001fca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f2b39b85-4e7a-49bb-8331-32b143001fca",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Prepayment on professional services (3201)",
+                  "Attributes": [
+                    {
+                      "Value": "18578b3a-7b31-447f-b645-dfe146a8b4a0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "18578b3a-7b31-447f-b645-dfe146a8b4a0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "18578b3a-7b31-447f-b645-dfe146a8b4a0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "48.73",
+                  "Attributes": [
+                    {
+                      "Value": "18578b3a-7b31-447f-b645-dfe146a8b4a0",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "18578b3a-7b31-447f-b645-dfe146a8b4a0",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Prepayment on Service agreement Armenia (3300)",
+                  "Attributes": [
+                    {
+                      "Value": "78c930a6-628f-4875-b9a9-6647c6c8d5e6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "78c930a6-628f-4875-b9a9-6647c6c8d5e6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "78c930a6-628f-4875-b9a9-6647c6c8d5e6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "78c930a6-628f-4875-b9a9-6647c6c8d5e6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2.77",
+                  "Attributes": [
+                    {
+                      "Value": "78c930a6-628f-4875-b9a9-6647c6c8d5e6",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Prepayments (3000)",
+                  "Attributes": [
+                    {
+                      "Value": "be14fb2c-e02b-4225-8a2e-346e2504d3ed",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "be14fb2c-e02b-4225-8a2e-346e2504d3ed",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "be14fb2c-e02b-4225-8a2e-346e2504d3ed",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3852.50",
+                  "Attributes": [
+                    {
+                      "Value": "be14fb2c-e02b-4225-8a2e-346e2504d3ed",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "be14fb2c-e02b-4225-8a2e-346e2504d3ed",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Reap Card (0001)",
+                  "Attributes": [
+                    {
+                      "Value": "d6e7b065-db11-4780-b497-4a25f52e0926",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "48354.62",
+                  "Attributes": [
+                    {
+                      "Value": "d6e7b065-db11-4780-b497-4a25f52e0926",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d6e7b065-db11-4780-b497-4a25f52e0926",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d6e7b065-db11-4780-b497-4a25f52e0926",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "574.06",
+                  "Attributes": [
+                    {
+                      "Value": "d6e7b065-db11-4780-b497-4a25f52e0926",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "REAP card control account (3200)",
+                  "Attributes": [
+                    {
+                      "Value": "f952a97c-27f8-48d7-9495-69e737a5521f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f952a97c-27f8-48d7-9495-69e737a5521f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "49253.82",
+                  "Attributes": [
+                    {
+                      "Value": "f952a97c-27f8-48d7-9495-69e737a5521f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f952a97c-27f8-48d7-9495-69e737a5521f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "44347.72",
+                  "Attributes": [
+                    {
+                      "Value": "f952a97c-27f8-48d7-9495-69e737a5521f",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Revolut EUR Main (0007)",
+                  "Attributes": [
+                    {
+                      "Value": "1876e947-4669-49b1-ab26-ed48256799d3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1876e947-4669-49b1-ab26-ed48256799d3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "6103.72",
+                  "Attributes": [
+                    {
+                      "Value": "1876e947-4669-49b1-ab26-ed48256799d3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1876e947-4669-49b1-ab26-ed48256799d3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2852.61",
+                  "Attributes": [
+                    {
+                      "Value": "1876e947-4669-49b1-ab26-ed48256799d3",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Revolut GBP Main (0006)",
+                  "Attributes": [
+                    {
+                      "Value": "1077af16-28ca-4048-bbf3-d8603b6bf7c3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1077af16-28ca-4048-bbf3-d8603b6bf7c3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "33237.60",
+                  "Attributes": [
+                    {
+                      "Value": "1077af16-28ca-4048-bbf3-d8603b6bf7c3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1077af16-28ca-4048-bbf3-d8603b6bf7c3",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "20490.87",
+                  "Attributes": [
+                    {
+                      "Value": "1077af16-28ca-4048-bbf3-d8603b6bf7c3",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Revolut USD Main (0005)",
+                  "Attributes": [
+                    {
+                      "Value": "8f71340a-04b1-4069-91e9-bf2d034b8641",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "8f71340a-04b1-4069-91e9-bf2d034b8641",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "11383.98",
+                  "Attributes": [
+                    {
+                      "Value": "8f71340a-04b1-4069-91e9-bf2d034b8641",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "56215.19",
+                  "Attributes": [
+                    {
+                      "Value": "8f71340a-04b1-4069-91e9-bf2d034b8641",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "8f71340a-04b1-4069-91e9-bf2d034b8641",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Ston.fi Revenue Control Account (3009)",
+                  "Attributes": [
+                    {
+                      "Value": "fdac31f3-1998-458c-a50f-172f2976532f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "fdac31f3-1998-458c-a50f-172f2976532f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "fdac31f3-1998-458c-a50f-172f2976532f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "85917.27",
+                  "Attributes": [
+                    {
+                      "Value": "fdac31f3-1998-458c-a50f-172f2976532f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "fdac31f3-1998-458c-a50f-172f2976532f",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TA UK MMPro (1035)",
+                  "Attributes": [
+                    {
+                      "Value": "1e2143fa-34f8-4bb4-81ad-4ca295806b94",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "1e2143fa-34f8-4bb4-81ad-4ca295806b94",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1e2143fa-34f8-4bb4-81ad-4ca295806b94",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "5.26",
+                  "Attributes": [
+                    {
+                      "Value": "1e2143fa-34f8-4bb4-81ad-4ca295806b94",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1e2143fa-34f8-4bb4-81ad-4ca295806b94",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TFihz - TRX top up OS (1058)",
+                  "Attributes": [
+                    {
+                      "Value": "f7cc2b9b-c6cf-4a23-860f-e5d3678a5044",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f7cc2b9b-c6cf-4a23-860f-e5d3678a5044",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f7cc2b9b-c6cf-4a23-860f-e5d3678a5044",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "11726.79",
+                  "Attributes": [
+                    {
+                      "Value": "f7cc2b9b-c6cf-4a23-860f-e5d3678a5044",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f7cc2b9b-c6cf-4a23-860f-e5d3678a5044",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "THbyP - Mercurio On Ramp income (1050)",
+                  "Attributes": [
+                    {
+                      "Value": "6d4c97df-a531-4ac5-bba3-2cfd38871335",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "6d4c97df-a531-4ac5-bba3-2cfd38871335",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "6d4c97df-a531-4ac5-bba3-2cfd38871335",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "262633.18",
+                  "Attributes": [
+                    {
+                      "Value": "6d4c97df-a531-4ac5-bba3-2cfd38871335",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "6d4c97df-a531-4ac5-bba3-2cfd38871335",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TJschXKD - Transak: USDT TRC-20 (1007)",
+                  "Attributes": [
+                    {
+                      "Value": "f2b420b8-57e6-44d7-9e49-a9386c5bd614",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f2b420b8-57e6-44d7-9e49-a9386c5bd614",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f2b420b8-57e6-44d7-9e49-a9386c5bd614",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "15104.06",
+                  "Attributes": [
+                    {
+                      "Value": "f2b420b8-57e6-44d7-9e49-a9386c5bd614",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f2b420b8-57e6-44d7-9e49-a9386c5bd614",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TKbZNJ - Treasury TRON - USDT (1017)",
+                  "Attributes": [
+                    {
+                      "Value": "2589f332-f8d8-4163-a52d-a128d0ec20cf",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "2589f332-f8d8-4163-a52d-a128d0ec20cf",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "2589f332-f8d8-4163-a52d-a128d0ec20cf",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2401.29",
+                  "Attributes": [
+                    {
+                      "Value": "2589f332-f8d8-4163-a52d-a128d0ec20cf",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "2589f332-f8d8-4163-a52d-a128d0ec20cf",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TON - 0xUQB74w...z8z3gA (1027)",
+                  "Attributes": [
+                    {
+                      "Value": "e85af290-eeee-4bd1-b63e-532fe4bb2670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "e85af290-eeee-4bd1-b63e-532fe4bb2670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "e85af290-eeee-4bd1-b63e-532fe4bb2670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "15077.96",
+                  "Attributes": [
+                    {
+                      "Value": "e85af290-eeee-4bd1-b63e-532fe4bb2670",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "e85af290-eeee-4bd1-b63e-532fe4bb2670",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TQQKUX2 - Neocrypto: USDT TRC-20 (1008)",
+                  "Attributes": [
+                    {
+                      "Value": "9bd1a102-f65f-498b-9607-5534e79e1158",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "9bd1a102-f65f-498b-9607-5534e79e1158",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "9bd1a102-f65f-498b-9607-5534e79e1158",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.30",
+                  "Attributes": [
+                    {
+                      "Value": "9bd1a102-f65f-498b-9607-5534e79e1158",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "9bd1a102-f65f-498b-9607-5534e79e1158",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Treasury Oleg account (1037)",
+                  "Attributes": [
+                    {
+                      "Value": "19fb12b7-23a5-49a2-b3d2-59620ab3681f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "19fb12b7-23a5-49a2-b3d2-59620ab3681f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "19fb12b7-23a5-49a2-b3d2-59620ab3681f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "5.44",
+                  "Attributes": [
+                    {
+                      "Value": "19fb12b7-23a5-49a2-b3d2-59620ab3681f",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "19fb12b7-23a5-49a2-b3d2-59620ab3681f",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Treasury_OS_Contractor (1030)",
+                  "Attributes": [
+                    {
+                      "Value": "f18f9fcc-f7d3-4c03-98bf-bb228b017aef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f18f9fcc-f7d3-4c03-98bf-bb228b017aef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f18f9fcc-f7d3-4c03-98bf-bb228b017aef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2840.87",
+                  "Attributes": [
+                    {
+                      "Value": "f18f9fcc-f7d3-4c03-98bf-bb228b017aef",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f18f9fcc-f7d3-4c03-98bf-bb228b017aef",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Treasury_OS_Other (1034)",
+                  "Attributes": [
+                    {
+                      "Value": "69c053f4-712f-4db8-89e8-74cd67f72433",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "69c053f4-712f-4db8-89e8-74cd67f72433",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "69c053f4-712f-4db8-89e8-74cd67f72433",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "6513.85",
+                  "Attributes": [
+                    {
+                      "Value": "69c053f4-712f-4db8-89e8-74cd67f72433",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "69c053f4-712f-4db8-89e8-74cd67f72433",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TSQfM2 - TRON - USDT (1020)",
+                  "Attributes": [
+                    {
+                      "Value": "1641ad30-97aa-424d-b3f9-9340c05ad762",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "1641ad30-97aa-424d-b3f9-9340c05ad762",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1641ad30-97aa-424d-b3f9-9340c05ad762",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "427.28",
+                  "Attributes": [
+                    {
+                      "Value": "1641ad30-97aa-424d-b3f9-9340c05ad762",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1641ad30-97aa-424d-b3f9-9340c05ad762",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TTwAg - TON Treasury (TRON) (1054)",
+                  "Attributes": [
+                    {
+                      "Value": "ba30daac-bf8b-47b4-b7aa-519eb41bc3f5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "ba30daac-bf8b-47b4-b7aa-519eb41bc3f5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ba30daac-bf8b-47b4-b7aa-519eb41bc3f5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "8951.92",
+                  "Attributes": [
+                    {
+                      "Value": "ba30daac-bf8b-47b4-b7aa-519eb41bc3f5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "ba30daac-bf8b-47b4-b7aa-519eb41bc3f5",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "TYj25VE - TA UK Featured USDT-TRC20 (1001)",
+                  "Attributes": [
+                    {
+                      "Value": "f4cb2447-e840-4028-8b1a-eb7c6ccf5d2e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f4cb2447-e840-4028-8b1a-eb7c6ccf5d2e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f4cb2447-e840-4028-8b1a-eb7c6ccf5d2e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f4cb2447-e840-4028-8b1a-eb7c6ccf5d2e",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1991.92",
+                  "Attributes": [
+                    {
+                      "Value": "f4cb2447-e840-4028-8b1a-eb7c6ccf5d2e",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQAOpcZ - TA UK IvendPay TON (1005)",
+                  "Attributes": [
+                    {
+                      "Value": "fe25f98c-f275-4e69-8480-bf1cc817f9f9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "fe25f98c-f275-4e69-8480-bf1cc817f9f9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "fe25f98c-f275-4e69-8480-bf1cc817f9f9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "7.91",
+                  "Attributes": [
+                    {
+                      "Value": "fe25f98c-f275-4e69-8480-bf1cc817f9f9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "fe25f98c-f275-4e69-8480-bf1cc817f9f9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQB46i - Ston.fi Agreegeated wallet (1022)",
+                  "Attributes": [
+                    {
+                      "Value": "03428a79-a74c-44b7-a8e4-1701a9af06e5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "03428a79-a74c-44b7-a8e4-1701a9af06e5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "03428a79-a74c-44b7-a8e4-1701a9af06e5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "48196.06",
+                  "Attributes": [
+                    {
+                      "Value": "03428a79-a74c-44b7-a8e4-1701a9af06e5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "03428a79-a74c-44b7-a8e4-1701a9af06e5",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQBwFq - TA UK Featured TON (1000)",
+                  "Attributes": [
+                    {
+                      "Value": "6fdfd996-1ae6-48c5-bd46-713911d8474c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "6fdfd996-1ae6-48c5-bd46-713911d8474c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "6fdfd996-1ae6-48c5-bd46-713911d8474c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "32157.68",
+                  "Attributes": [
+                    {
+                      "Value": "6fdfd996-1ae6-48c5-bd46-713911d8474c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "6fdfd996-1ae6-48c5-bd46-713911d8474c",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQCBLv - Battery prepaid gas wallet (1055)",
+                  "Attributes": [
+                    {
+                      "Value": "3741c266-4800-4299-bb53-465af29032c4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "3741c266-4800-4299-bb53-465af29032c4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "3741c266-4800-4299-bb53-465af29032c4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "3741c266-4800-4299-bb53-465af29032c4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3498934.33",
+                  "Attributes": [
+                    {
+                      "Value": "3741c266-4800-4299-bb53-465af29032c4",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQCxag - Tonkeeper Pro paid plans (1021)",
+                  "Attributes": [
+                    {
+                      "Value": "f244e192-3929-4f2b-94bb-f9bd7a9f61bc",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f244e192-3929-4f2b-94bb-f9bd7a9f61bc",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f244e192-3929-4f2b-94bb-f9bd7a9f61bc",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3260.97",
+                  "Attributes": [
+                    {
+                      "Value": "f244e192-3929-4f2b-94bb-f9bd7a9f61bc",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f244e192-3929-4f2b-94bb-f9bd7a9f61bc",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQDaN - Profit share Tokenstore (1051)",
+                  "Attributes": [
+                    {
+                      "Value": "89d208d9-de19-458a-9ddc-7fa024e10563",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "89d208d9-de19-458a-9ddc-7fa024e10563",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "89d208d9-de19-458a-9ddc-7fa024e10563",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4592.33",
+                  "Attributes": [
+                    {
+                      "Value": "89d208d9-de19-458a-9ddc-7fa024e10563",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "89d208d9-de19-458a-9ddc-7fa024e10563",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "UQDuAVO - TA UK TonMobile TON (1003)",
+                  "Attributes": [
+                    {
+                      "Value": "a07e95b0-60ec-471c-ab62-4990ce0ed029",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "a07e95b0-60ec-471c-ab62-4990ce0ed029",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "a07e95b0-60ec-471c-ab62-4990ce0ed029",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "813.76",
+                  "Attributes": [
+                    {
+                      "Value": "a07e95b0-60ec-471c-ab62-4990ce0ed029",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "a07e95b0-60ec-471c-ab62-4990ce0ed029",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "USD - TON APPS UK LIMITED (0002)",
+                  "Attributes": [
+                    {
+                      "Value": "4134c361-c2e2-41e8-be0f-f3aaa98e11bd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2762.40",
+                  "Attributes": [
+                    {
+                      "Value": "4134c361-c2e2-41e8-be0f-f3aaa98e11bd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "4134c361-c2e2-41e8-be0f-f3aaa98e11bd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "36403.95",
+                  "Attributes": [
+                    {
+                      "Value": "4134c361-c2e2-41e8-be0f-f3aaa98e11bd",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "4134c361-c2e2-41e8-be0f-f3aaa98e11bd",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Liabilities",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Accounting expense - crypto control account (5010)",
+                  "Attributes": [
+                    {
+                      "Value": "b1835e29-fa9c-4474-833f-aef0b1d47d07",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b1835e29-fa9c-4474-833f-aef0b1d47d07",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "b1835e29-fa9c-4474-833f-aef0b1d47d07",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "b1835e29-fa9c-4474-833f-aef0b1d47d07",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.02",
+                  "Attributes": [
+                    {
+                      "Value": "b1835e29-fa9c-4474-833f-aef0b1d47d07",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Accruals (5007)",
+                  "Attributes": [
+                    {
+                      "Value": "36c58762-1762-417c-b9a1-f54a7de5192b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "36c58762-1762-417c-b9a1-f54a7de5192b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "36c58762-1762-417c-b9a1-f54a7de5192b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "36c58762-1762-417c-b9a1-f54a7de5192b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "202715.82",
+                  "Attributes": [
+                    {
+                      "Value": "36c58762-1762-417c-b9a1-f54a7de5192b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Allowance for ECL (5300)",
+                  "Attributes": [
+                    {
+                      "Value": "24c5753e-7417-4757-a928-256c5df535ec",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "24c5753e-7417-4757-a928-256c5df535ec",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "24c5753e-7417-4757-a928-256c5df535ec",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "24c5753e-7417-4757-a928-256c5df535ec",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2311.00",
+                  "Attributes": [
+                    {
+                      "Value": "24c5753e-7417-4757-a928-256c5df535ec",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Consultancy expense - crypto control account (5011)",
+                  "Attributes": [
+                    {
+                      "Value": "19960a00-9bf8-4381-8b6e-0d6b48d97969",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "19960a00-9bf8-4381-8b6e-0d6b48d97969",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "19960a00-9bf8-4381-8b6e-0d6b48d97969",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "19960a00-9bf8-4381-8b6e-0d6b48d97969",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.16",
+                  "Attributes": [
+                    {
+                      "Value": "19960a00-9bf8-4381-8b6e-0d6b48d97969",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Corporation tax payable (6300)",
+                  "Attributes": [
+                    {
+                      "Value": "cccff08d-4e29-45b8-976c-a26bc83a4ec4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "cccff08d-4e29-45b8-976c-a26bc83a4ec4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "cccff08d-4e29-45b8-976c-a26bc83a4ec4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "cccff08d-4e29-45b8-976c-a26bc83a4ec4",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3707.00",
+                  "Attributes": [
+                    {
+                      "Value": "cccff08d-4e29-45b8-976c-a26bc83a4ec4",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Current Deferred revenue - Battery revenue (6202)",
+                  "Attributes": [
+                    {
+                      "Value": "7c95bc8c-378d-49fd-9daa-b7eb1bf4d807",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "7c95bc8c-378d-49fd-9daa-b7eb1bf4d807",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "7c95bc8c-378d-49fd-9daa-b7eb1bf4d807",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "7c95bc8c-378d-49fd-9daa-b7eb1bf4d807",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "2183945.00",
+                  "Attributes": [
+                    {
+                      "Value": "7c95bc8c-378d-49fd-9daa-b7eb1bf4d807",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Deferred revenue - subscription (6201)",
+                  "Attributes": [
+                    {
+                      "Value": "f5c4c03e-7a30-4f5f-adec-da13770b2c8b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f5c4c03e-7a30-4f5f-adec-da13770b2c8b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f5c4c03e-7a30-4f5f-adec-da13770b2c8b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f5c4c03e-7a30-4f5f-adec-da13770b2c8b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "16988.69",
+                  "Attributes": [
+                    {
+                      "Value": "f5c4c03e-7a30-4f5f-adec-da13770b2c8b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Fiat Accounts Payable (5001)",
+                  "Attributes": [
+                    {
+                      "Value": "d8aaafe1-e38c-4897-8b63-df3c63010f1b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "27977.14",
+                  "Attributes": [
+                    {
+                      "Value": "d8aaafe1-e38c-4897-8b63-df3c63010f1b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d8aaafe1-e38c-4897-8b63-df3c63010f1b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "d8aaafe1-e38c-4897-8b63-df3c63010f1b",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "105368.18",
+                  "Attributes": [
+                    {
+                      "Value": "d8aaafe1-e38c-4897-8b63-df3c63010f1b",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "FX clearing account (6100)",
+                  "Attributes": [
+                    {
+                      "Value": "f4b8600f-87c6-4fb7-83d5-c90b0926d48a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f4b8600f-87c6-4fb7-83d5-c90b0926d48a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "f4b8600f-87c6-4fb7-83d5-c90b0926d48a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "18.34",
+                  "Attributes": [
+                    {
+                      "Value": "f4b8600f-87c6-4fb7-83d5-c90b0926d48a",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "f4b8600f-87c6-4fb7-83d5-c90b0926d48a",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Intercompany Loans (5100)",
+                  "Attributes": [
+                    {
+                      "Value": "2c9e842e-dad1-4473-9d40-458e3fe37945",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "2c9e842e-dad1-4473-9d40-458e3fe37945",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "2c9e842e-dad1-4473-9d40-458e3fe37945",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "2c9e842e-dad1-4473-9d40-458e3fe37945",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "14459.72",
+                  "Attributes": [
+                    {
+                      "Value": "2c9e842e-dad1-4473-9d40-458e3fe37945",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Intercompany royalty payable (5104)",
+                  "Attributes": [
+                    {
+                      "Value": "40e6e86b-2107-4c8a-b031-197cc9acc0aa",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "40e6e86b-2107-4c8a-b031-197cc9acc0aa",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "40e6e86b-2107-4c8a-b031-197cc9acc0aa",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "40e6e86b-2107-4c8a-b031-197cc9acc0aa",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1828528.00",
+                  "Attributes": [
+                    {
+                      "Value": "40e6e86b-2107-4c8a-b031-197cc9acc0aa",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Non-current Deferred revenue - Battery revenue (6200)",
+                  "Attributes": [
+                    {
+                      "Value": "4f21b302-7434-4866-be8f-f120b5902bb9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "4f21b302-7434-4866-be8f-f120b5902bb9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "4f21b302-7434-4866-be8f-f120b5902bb9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "4f21b302-7434-4866-be8f-f120b5902bb9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4442561.83",
+                  "Attributes": [
+                    {
+                      "Value": "4f21b302-7434-4866-be8f-f120b5902bb9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Other Payables (5003)",
+                  "Attributes": [
+                    {
+                      "Value": "13bd9e23-6d9a-4c48-aabd-f0360b703510",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "13bd9e23-6d9a-4c48-aabd-f0360b703510",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "13bd9e23-6d9a-4c48-aabd-f0360b703510",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "13bd9e23-6d9a-4c48-aabd-f0360b703510",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "6028.91",
+                  "Attributes": [
+                    {
+                      "Value": "13bd9e23-6d9a-4c48-aabd-f0360b703510",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Other payables Intercompany (5009)",
+                  "Attributes": [
+                    {
+                      "Value": "423d5bdc-3637-45d7-a3f3-e3a5ce016713",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "423d5bdc-3637-45d7-a3f3-e3a5ce016713",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "423d5bdc-3637-45d7-a3f3-e3a5ce016713",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "423d5bdc-3637-45d7-a3f3-e3a5ce016713",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3959.86",
+                  "Attributes": [
+                    {
+                      "Value": "423d5bdc-3637-45d7-a3f3-e3a5ce016713",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "PAYE creditor account (5102)",
+                  "Attributes": [
+                    {
+                      "Value": "69b7341f-6d31-4010-9ee5-1f741664cec5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "69b7341f-6d31-4010-9ee5-1f741664cec5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "69b7341f-6d31-4010-9ee5-1f741664cec5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "69b7341f-6d31-4010-9ee5-1f741664cec5",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "693.07",
+                  "Attributes": [
+                    {
+                      "Value": "69b7341f-6d31-4010-9ee5-1f741664cec5",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Salary Payroll control account (5101)",
+                  "Attributes": [
+                    {
+                      "Value": "8c412b4e-81ba-471a-bf64-1ccc97930af6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "4186.03",
+                  "Attributes": [
+                    {
+                      "Value": "8c412b4e-81ba-471a-bf64-1ccc97930af6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "8c412b4e-81ba-471a-bf64-1ccc97930af6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "8c412b4e-81ba-471a-bf64-1ccc97930af6",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "8c412b4e-81ba-471a-bf64-1ccc97930af6",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Suspense (5008)",
+                  "Attributes": [
+                    {
+                      "Value": "1f156970-9035-4a2d-81ef-35b2b1b5a9c9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1f156970-9035-4a2d-81ef-35b2b1b5a9c9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "1f156970-9035-4a2d-81ef-35b2b1b5a9c9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "1f156970-9035-4a2d-81ef-35b2b1b5a9c9",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "28.87",
+                  "Attributes": [
+                    {
+                      "Value": "1f156970-9035-4a2d-81ef-35b2b1b5a9c9",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Travel expense - crypto control account (5013)",
+                  "Attributes": [
+                    {
+                      "Value": "8fad582f-05b9-46aa-bf8d-72c168332744",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "8fad582f-05b9-46aa-bf8d-72c168332744",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "8fad582f-05b9-46aa-bf8d-72c168332744",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "8fad582f-05b9-46aa-bf8d-72c168332744",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.13",
+                  "Attributes": [
+                    {
+                      "Value": "8fad582f-05b9-46aa-bf8d-72c168332744",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "VAT (820)",
+                  "Attributes": [
+                    {
+                      "Value": "c85cfdd5-716e-42dd-b74d-bb7d48c93dca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1000.00",
+                  "Attributes": [
+                    {
+                      "Value": "c85cfdd5-716e-42dd-b74d-bb7d48c93dca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "c85cfdd5-716e-42dd-b74d-bb7d48c93dca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "13051.14",
+                  "Attributes": [
+                    {
+                      "Value": "c85cfdd5-716e-42dd-b74d-bb7d48c93dca",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "c85cfdd5-716e-42dd-b74d-bb7d48c93dca",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "Equity",
+          "Rows": [
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Retained Earnings (7002)",
+                  "Attributes": [
+                    {
+                      "Value": "57dbb63a-3598-4654-b844-819f256d089c",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "57dbb63a-3598-4654-b844-819f256d089c",
+                      "Id": "account"
+                    },
+                    {
+                      "Value": "",
+                      "Id": "fromDate"
+                    },
+                    {
+                      "Value": "12/31/2025",
+                      "Id": "toDate"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "57dbb63a-3598-4654-b844-819f256d089c",
+                      "Id": "account"
+                    },
+                    {
+                      "Value": "",
+                      "Id": "fromDate"
+                    },
+                    {
+                      "Value": "12/31/2025",
+                      "Id": "toDate"
+                    }
+                  ]
+                },
+                {
+                  "Value": "3762716.47",
+                  "Attributes": [
+                    {
+                      "Value": "57dbb63a-3598-4654-b844-819f256d089c",
+                      "Id": "account"
+                    },
+                    {
+                      "Value": "",
+                      "Id": "fromDate"
+                    },
+                    {
+                      "Value": "12/31/2025",
+                      "Id": "toDate"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "57dbb63a-3598-4654-b844-819f256d089c",
+                      "Id": "account"
+                    },
+                    {
+                      "Value": "",
+                      "Id": "fromDate"
+                    },
+                    {
+                      "Value": "12/31/2025",
+                      "Id": "toDate"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "RowType": "Row",
+              "Cells": [
+                {
+                  "Value": "Share Capital (7000)",
+                  "Attributes": [
+                    {
+                      "Value": "010f17c8-d3a8-4924-906d-ad6110832d24",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "010f17c8-d3a8-4924-906d-ad6110832d24",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "0.00",
+                  "Attributes": [
+                    {
+                      "Value": "010f17c8-d3a8-4924-906d-ad6110832d24",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "",
+                  "Attributes": [
+                    {
+                      "Value": "010f17c8-d3a8-4924-906d-ad6110832d24",
+                      "Id": "account"
+                    }
+                  ]
+                },
+                {
+                  "Value": "1.00",
+                  "Attributes": [
+                    {
+                      "Value": "010f17c8-d3a8-4924-906d-ad6110832d24",
+                      "Id": "account"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RowType": "Section",
+          "Title": "",
+          "Rows": [
+            {
+              "RowType": "SummaryRow",
+              "Cells": [
+                {
+                  "Value": "Total"
+                },
+                {
+                  "Value": "109231.64"
+                },
+                {
+                  "Value": "109231.63"
+                },
+                {
+                  "Value": "12761468.71"
+                },
+                {
+                  "Value": "12761468.70"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

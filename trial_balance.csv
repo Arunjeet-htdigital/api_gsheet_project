@@ -1,0 +1,91 @@
+Section,Label,Debit,Credit,YTD_Debit,YTD_Credit,AccountId
+Expenses,Bank fees (9006),5000.0,,5000.0,,a7eb5b4c-9220-475f-a90c-5b22ee0af6cd
+Expenses,Bank Revaluations (9994),607.37,,607.37,,03ac8722-fea3-40c2-be19-a3f65b389f1c
+Expenses,Consultancies (9010),6083.06,,6083.06,,2a826e35-1d9e-4b13-a650-b43db4594ce9
+Expenses,IT & software expense (9017),886.87,,886.87,,27e3dd34-14c3-4fbb-898b-f0d3228e6a36
+Expenses,Realised Currency Gains or Losses (499),,14.35,,14.35,1a48a222-83e5-4bdc-afb5-be9226be9555
+Expenses,Server (9009),10784.6,,10784.6,,125ebac8-ab90-47fb-b00a-c97ee9934781
+Expenses,Unrealised Currency Gains or Losses (498),1589.54,,1589.54,,e29bdac7-efd7-4c1a-a1bb-ddaf18f4c17a
+Assets,0x59C7 - Treasury ETH - ETH (1015),0.0,,18.36,,ceb5c4e9-3815-4f4e-b506-41035cdce0d0
+Assets,0x59C7 - Treasury ETH - USDT (1016),0.0,,71.69,,f074efb7-7ee9-4d5f-b5a5-f1849de6b78a
+Assets,0x59C7 - Treasury USDC - USDC (1032),0.0,,4917.67,,b7f4e422-c92c-477f-8135-e8fda325d0fe
+Assets,0xc3A6d - Changelly: USDT ERC-20 (1010),0.0,,,4.45,4c29e285-c102-4e27-9ce4-eeb8305c0a74
+Assets,0xUQDWyk - TON (1026),0.0,,27634.27,,178b6fe8-f257-4a04-ae2a-8ef7173c9c9b
+Assets,Accounts Receivable Crypto (3003),,2039.11,310105.63,,b5e9e081-0d61-46f8-b6c2-eb49fa1d7c69
+Assets,Battery revenue wallet TK (1104),0.0,,251524.78,,0323fba6-17fb-4440-94ca-859549a985f0
+Assets,Battery.ton wallet (1102),0.0,,94065.29,,ddb1a8c8-9d6d-4c46-a49e-efcd4857742e
+Assets,bc1q5 - Moonpay Profit Sharing wallet (1039),0.0,,55977.45,,fe3caa61-d3ca-4473-82af-4466e9865311
+Assets,bc1qa - UK BTC Treasury (1057),0.0,,185967.39,,b3c0f19b-4782-4a19-801c-337b7eb9ee3f
+Assets,bc1qcyqx - Letsexchange:BTC (1012),0.0,,32086.3,,cba165d8-dfca-42f6-b62b-c9c1df6a1fde
+Assets,bc1qd6 - Tonkeeper Mobile (1024),0.0,,90844.26,,c1d2593c-7a57-4daf-bc5b-a5c8c9c406ef
+Assets,bc1qq70h - Simpleswap: BTC (1011),0.0,,23743.85,,d3993ee0-612e-4e0b-a2c8-768b63025670
+Assets,bc1qr - Revenue Tonkeeper Mobile Avanchange (1024-2),0.0,,13824.13,,77a1fd57-2ee3-43be-9581-2ebdb4447fb5
+Assets,bc1qr0 - Ops - BTC (1018),0.0,,988.3,,d5a6ecd8-f621-40ac-b31e-af44b39c753e
+Assets,bc1qs - UK BTC Treasury 2 (1056),0.0,,1196646.26,,29035512-865d-4a31-a504-7f94ebc81b18
+Assets,BTC - 0xbc1qll...4umnk8 (1025),0.0,,953891.61,,d64779bf-09e2-4024-b925-ce90e2a6a1b2
+Assets,Cold Storage wallet (1103),0.0,,4209332.6,,5340f699-5933-4509-b816-65529afd1a0d
+Assets,Computer Equipment (4002),0.0,,8032.92,,95b43dcf-9e7a-4169-852f-8c6d89562986
+Assets,Less Accumulated Depreciation on Computer Equipment (4003),0.0,,,677.47,d35c98a3-74fb-4e29-8458-f4b8ddc4cfd7
+Assets,Crypto receivable debtor control account (3005),0.0,,256502.29,,edf68639-7d02-4f73-90d2-4ff041f9bf37
+Assets,Crypto swaps control account (3006),0.0,,,307321.43,b300f221-1cbe-4d78-b644-3f4a3f8ab505
+Assets,DO NOT USE - old REAP account (0001A),0.01,,,0.77,537054df-ed71-4dd5-b2b6-db7284f4c7a2
+Assets,ETH - 0x0x5888...591105 (1028),0.0,,,15201.5,d6f35d4e-463b-4dcb-bd83-4bdd2b6c3163
+Assets,EUR - TON APPS UK limited (0004),,1.03,174.09,,3b39d939-72c9-48e3-a59b-08136d24eee9
+Assets,GBP current - TON APPS UK LTD (0003),,4185.43,74.16,,ad6724c5-9c61-45a2-a0ab-a6446b729a8e
+Assets,In-app Battery revenue receivable (8990),,3012.59,,8430.53,d0c2bb7b-6338-471b-858e-32188c155587
+Assets,Intercompany receivable - Trading (3101),0.0,,621252.62,,10b12850-8dec-4ae6-9809-f598e6cf5749
+Assets,Intercompany receivables - non trading (3100),0.0,,24878.67,,662da044-a430-4681-8fe4-49565c7aea82
+Assets,OKX Control (3007),0.0,,,31762.91,b07d258d-1078-4610-97aa-42c70f92f1c7
+Assets,OKX wallet (1052),0.0,,,17563.75,529e756e-9a34-4c28-bde2-d8307df8196e
+Assets,Other Receivables (3001),0.0,,1022.18,,f2b39b85-4e7a-49bb-8331-32b143001fca
+Assets,Prepayment on professional services (3201),0.0,,48.73,,18578b3a-7b31-447f-b645-dfe146a8b4a0
+Assets,Prepayment on Service agreement Armenia (3300),0.0,,,2.77,78c930a6-628f-4875-b9a9-6647c6c8d5e6
+Assets,Prepayments (3000),0.0,,3852.5,,be14fb2c-e02b-4225-8a2e-346e2504d3ed
+Assets,Reap Card (0001),48354.62,,,574.06,d6e7b065-db11-4780-b497-4a25f52e0926
+Assets,REAP card control account (3200),,49253.82,,44347.72,f952a97c-27f8-48d7-9495-69e737a5521f
+Assets,Revolut EUR Main (0007),,6103.72,,2852.61,1876e947-4669-49b1-ab26-ed48256799d3
+Assets,Revolut GBP Main (0006),,33237.6,,20490.87,1077af16-28ca-4048-bbf3-d8603b6bf7c3
+Assets,Revolut USD Main (0005),,11383.98,56215.19,,8f71340a-04b1-4069-91e9-bf2d034b8641
+Assets,Ston.fi Revenue Control Account (3009),0.0,,85917.27,,fdac31f3-1998-458c-a50f-172f2976532f
+Assets,TA UK MMPro (1035),0.0,,5.26,,1e2143fa-34f8-4bb4-81ad-4ca295806b94
+Assets,TFihz - TRX top up OS (1058),0.0,,11726.79,,f7cc2b9b-c6cf-4a23-860f-e5d3678a5044
+Assets,THbyP - Mercurio On Ramp income (1050),0.0,,262633.18,,6d4c97df-a531-4ac5-bba3-2cfd38871335
+Assets,TJschXKD - Transak: USDT TRC-20 (1007),0.0,,15104.06,,f2b420b8-57e6-44d7-9e49-a9386c5bd614
+Assets,TKbZNJ - Treasury TRON - USDT (1017),0.0,,2401.29,,2589f332-f8d8-4163-a52d-a128d0ec20cf
+Assets,TON - 0xUQB74w...z8z3gA (1027),0.0,,15077.96,,e85af290-eeee-4bd1-b63e-532fe4bb2670
+Assets,TQQKUX2 - Neocrypto: USDT TRC-20 (1008),0.0,,0.3,,9bd1a102-f65f-498b-9607-5534e79e1158
+Assets,Treasury Oleg account (1037),0.0,,5.44,,19fb12b7-23a5-49a2-b3d2-59620ab3681f
+Assets,Treasury_OS_Contractor (1030),0.0,,2840.87,,f18f9fcc-f7d3-4c03-98bf-bb228b017aef
+Assets,Treasury_OS_Other (1034),0.0,,6513.85,,69c053f4-712f-4db8-89e8-74cd67f72433
+Assets,TSQfM2 - TRON - USDT (1020),0.0,,427.28,,1641ad30-97aa-424d-b3f9-9340c05ad762
+Assets,TTwAg - TON Treasury (TRON) (1054),0.0,,8951.92,,ba30daac-bf8b-47b4-b7aa-519eb41bc3f5
+Assets,TYj25VE - TA UK Featured USDT-TRC20 (1001),0.0,,,1991.92,f4cb2447-e840-4028-8b1a-eb7c6ccf5d2e
+Assets,UQAOpcZ - TA UK IvendPay TON (1005),0.0,,7.91,,fe25f98c-f275-4e69-8480-bf1cc817f9f9
+Assets,UQB46i - Ston.fi Agreegeated wallet (1022),0.0,,48196.06,,03428a79-a74c-44b7-a8e4-1701a9af06e5
+Assets,UQBwFq - TA UK Featured TON (1000),0.0,,32157.68,,6fdfd996-1ae6-48c5-bd46-713911d8474c
+Assets,UQCBLv - Battery prepaid gas wallet (1055),0.0,,,3498934.33,3741c266-4800-4299-bb53-465af29032c4
+Assets,UQCxag - Tonkeeper Pro paid plans (1021),0.0,,3260.97,,f244e192-3929-4f2b-94bb-f9bd7a9f61bc
+Assets,UQDaN - Profit share Tokenstore (1051),0.0,,4592.33,,89d208d9-de19-458a-9ddc-7fa024e10563
+Assets,UQDuAVO - TA UK TonMobile TON (1003),0.0,,813.76,,a07e95b0-60ec-471c-ab62-4990ce0ed029
+Assets,USD - TON APPS UK LIMITED (0002),2762.4,,36403.95,,4134c361-c2e2-41e8-be0f-f3aaa98e11bd
+Liabilities,Accounting expense - crypto control account (5010),,0.0,,0.02,b1835e29-fa9c-4474-833f-aef0b1d47d07
+Liabilities,Accruals (5007),,0.0,,202715.82,36c58762-1762-417c-b9a1-f54a7de5192b
+Liabilities,Allowance for ECL (5300),,0.0,,2311.0,24c5753e-7417-4757-a928-256c5df535ec
+Liabilities,Consultancy expense - crypto control account (5011),,0.0,,0.16,19960a00-9bf8-4381-8b6e-0d6b48d97969
+Liabilities,Corporation tax payable (6300),,0.0,,3707.0,cccff08d-4e29-45b8-976c-a26bc83a4ec4
+Liabilities,Current Deferred revenue - Battery revenue (6202),,0.0,,2183945.0,7c95bc8c-378d-49fd-9daa-b7eb1bf4d807
+Liabilities,Deferred revenue - subscription (6201),,0.0,,16988.69,f5c4c03e-7a30-4f5f-adec-da13770b2c8b
+Liabilities,Fiat Accounts Payable (5001),27977.14,,,105368.18,d8aaafe1-e38c-4897-8b63-df3c63010f1b
+Liabilities,FX clearing account (6100),,0.0,18.34,,f4b8600f-87c6-4fb7-83d5-c90b0926d48a
+Liabilities,Intercompany Loans (5100),,0.0,,14459.72,2c9e842e-dad1-4473-9d40-458e3fe37945
+Liabilities,Intercompany royalty payable (5104),,0.0,,1828528.0,40e6e86b-2107-4c8a-b031-197cc9acc0aa
+Liabilities,Non-current Deferred revenue - Battery revenue (6200),,0.0,,4442561.83,4f21b302-7434-4866-be8f-f120b5902bb9
+Liabilities,Other Payables (5003),,0.0,,6028.91,13bd9e23-6d9a-4c48-aabd-f0360b703510
+Liabilities,Other payables Intercompany (5009),,0.0,,3959.86,423d5bdc-3637-45d7-a3f3-e3a5ce016713
+Liabilities,PAYE creditor account (5102),,0.0,,693.07,69b7341f-6d31-4010-9ee5-1f741664cec5
+Liabilities,Salary Payroll control account (5101),4186.03,,,0.0,8c412b4e-81ba-471a-bf64-1ccc97930af6
+Liabilities,Suspense (5008),,0.0,,28.87,1f156970-9035-4a2d-81ef-35b2b1b5a9c9
+Liabilities,Travel expense - crypto control account (5013),,0.0,,0.13,8fad582f-05b9-46aa-bf8d-72c168332744
+Liabilities,VAT (820),1000.0,,13051.14,,c85cfdd5-716e-42dd-b74d-bb7d48c93dca
+Equity,Retained Earnings (7002),,0.0,3762716.47,,57dbb63a-3598-4654-b844-819f256d089c
+Equity,Share Capital (7000),,0.0,,1.0,010f17c8-d3a8-4924-906d-ad6110832d24
