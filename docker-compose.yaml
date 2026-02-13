@@ -12,13 +12,14 @@ services:
     environment:
       PYTHONDONTWRITEBYTECODE: "1"
       PYTHONUNBUFFERED: "1"   
-      XERO_CLIENT_ID: "FE73E4C7FB2F477C94BC0BE1C70B511D"
-      XERO_CLIENT_SECRET: "PO5kQcwtcOphCWAw41T3O8oawL0rUTZe9AV4QoMn6Cv6ZhRc"
+      XERO_CLIENT_ID: ${{secrets.XERO_CLIENT_ID}}
+      XERO_CLIENT_SECRET: ${{secrets.XERO_CLIENT_SECRET}}
       XERO_REDIRECT_URI: "http://localhost:8080/callback"
       tenant_id: "d7418ac2-e3ec-488b-b942-5bfef34ff7b7"
     
     working_dir: /api_gsheet_project
     restart: "no"
+
 
 
     command: ["bash", "trigger.sh"]
